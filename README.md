@@ -7,9 +7,9 @@ Web Developer
 I have been on a continuous learning journey for over a year now. I started by learning Python programming language, and then moved on to web development. With HTML and CSS, I honed my skills and grew more curious. Eventually, I began to explore JavaScript through various online resources, and I crafted meaningful projects that combined HTML, CSS, and JS. As I progressed further, I embraced frontend frameworks like React, along with essential libraries, to create dynamic user interfaces. I also dived into backend development, mastering Express, Node.js, REST APIs, and MongoDB to construct robust backend systems. With a solid understanding of the MERN stack, I embarked on building substantial projects, including CRUD applications and full-stack MERN e-commerce platforms. Expanding my toolkit, I familiarized myself with Tailwind CSS and Next.js, enhancing my capabilities in full-stack development. Currently, I am immersing myself in Django and SQL, deepening my understanding of database management and backend architecture. My journey reflects my commitment to continual growth and passion for mastering the intricacies of coding.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://myapp.com)
+* 🖥️  See my portfolio at [My Portfolio](https://ravi-yadav.vercel.app/)
 * ✉️  You can contact me at [yravi7713@gmail.com](mailto:yravi7713@gmail.com)
-* 🚀  I'm currently working on [Imagner SaaS App](http://github.com)
+* 🚀  I'm currently working on [Imagner SaaS App](https://github.com/raviycoder/saas_imagner_app)
 * 🧠  I'm learning a Django Framework
 * 🤝  I'm open to collaborating on Web Developer Jobs or Projects
 * ⚡  My hobby is drawing; specifically, I enjoy creating art through drawing.
